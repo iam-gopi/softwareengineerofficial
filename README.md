@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Gopi
 
-🔭 I’m a Full Stack 🕸️(Web) and 📱(Mobile) app developer. 
+🙋🏼‍♂️ I’m a Engineering Degree holder in Computer Science field. 
+🔭 Full Stack 🕸️(Web) and 📱(Mobile) app developer. 
+📫You can follow me on ![[Twitter](https://twitter.com/sftwareofficial)](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 <!--
 **softwareengineerofficial/softwareengineerofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
