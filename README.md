@@ -2,7 +2,7 @@
 
 🙋🏼‍♂️ I’m a Engineering Degree holder in Computer Science field.<br /> 
 🔭 Full Stack 🕸️(Web) and 📱(Mobile) app developer.<br />
-📫You can follow me on ![[Twitter](https://twitter.com/sftwareofficial)](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)<br />
+📫You can follow me on ![Twitter]([https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white](https://twitter.com/sftwareofficial))<br />
 <!--
 **softwareengineerofficial/softwareengineerofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
