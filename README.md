@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Gopi
 
+🔭 I’m a Full Stack 🕸️(Web) and 📱(Mobile) app developer. 
 <!--
 **softwareengineerofficial/softwareengineerofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
